@@ -63,8 +63,13 @@ This project aims to create a real-time system that interprets sign language ges
 ## Block Diagram
 
 <p align="center">  
+<img src="Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg" alt="Designed Glove" width="600" height="350">
+</p>
+
+<p align="center">  
 <img src="(Images_and_Visuals/Other_Images/Block_Diagram.jpg" alt="Block Diagram" width="450" height="380">
 </p>
+
 The block diagram is self-explanatory.
 - The designed glove is only responsible for collecting data/input.
 - All processing and classification task takes place on the Desktop itself
