@@ -11,8 +11,8 @@ A real-time system designed to convert sign language gestures into spoken words,
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Resources_Used](#resourcesused)
-- [Block_Diagram](#blockdiagram)
+- [Resources_Used](#resources_used)
+- [Block_Diagram](#block_diagram)
 - [Visuals](#visuals)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
