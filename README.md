@@ -1,8 +1,8 @@
 # Design-and-Development-of-Real-Time-Sign-Language-to-Speech-Conversion-System
 
-<center>
+<p align="center">  
 <img src="Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg" alt="Designed Glove" width="600" height="300">
-</center>
+</p>
 <br>
 *The glove is designed and fused with flex and accelerometer and gyroscope sensors, the STM32 microcontroller development board is the processing unit which is connected to Desktop for consuming power as well as establishing communication*
 
