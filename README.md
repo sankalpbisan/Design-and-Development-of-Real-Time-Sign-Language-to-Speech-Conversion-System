@@ -75,6 +75,7 @@ The block diagram is self-explanatory.
 !['Welcome' sign all sensors plots](Images_and_Visuals/Other_Images/wel_graphs.png)
 - All three sensors data is visualized on the plot, for efficient visuals, average of each data points is taken 
 
+
 !['Bye' sign all sensors plots](Images_and_Visuals/Other_Images/bye_graphs.png)
 - All three sensors data is visualized on the plot, for efficient visuals, average of each data points is taken 
 
