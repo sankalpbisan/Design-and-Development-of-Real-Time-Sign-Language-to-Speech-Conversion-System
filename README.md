@@ -1,7 +1,9 @@
 # Design-and-Development-of-Real-Time-Sign-Language-to-Speech-Conversion-System
 
-![Project Logo or Banner](Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg)  
-<img src="Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg" alt="Designed Glove" width="300" height="200">
+<p style="text-align:center;"> 
+<img src="Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg" alt="Designed Glove" width="600" height="300">
+</p>
+<br>
 *The glove is designed and fused with flex and accelerometer and gyroscope sensors, the STM32 microcontroller development board is the processing unit which is connected to Desktop for consuming power as well as establishing communication*
 
 A real-time system designed to convert sign language gestures into spoken words, enabling seamless communication for the hearing and speech-impaired community. This project leverages embedded systems, machine learning, and text-to-speech technologies to bridge the communication gap.
