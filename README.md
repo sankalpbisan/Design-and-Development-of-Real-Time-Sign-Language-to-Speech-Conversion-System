@@ -39,12 +39,21 @@ This project aims to create a real-time system that interprets sign language ges
 ## Resources Used
 
 ![Flex Sensors](Images_and_Visuals/Other_Images/Flex_Sensor.jpg)
+<p align="center">  
+<img src="Images_and_Visuals/Other_Images/Flex_Sensor.jpg" alt="Flex Sensors" width="350" height="300">
+</p>
 - The flex sensors are used for capturing the fingers flex movement
-   
+
 ![MPU6050](Images_and_Visuals/Other_Images/mpu6050.png)
+<p align="center">  
+<img src="(Images_and_Visuals/Other_Images/mpu6050.png" alt="MPU6050" width="350" height="300">
+</p>
 - This sensor is used for accounting the hand movements  
 
 ![STM32F103C8T6](Images_and_Visuals/Other_Images/stm32.jpg)
+<p align="center">  
+<img src="(Images_and_Visuals/Other_Images/stm32.jpg" alt="STM32F103C8T6" width="350" height="300">
+</p>
 - This is a processing unit which takes the input from sensors and deliver it to Desktop for further process
 
 ---
