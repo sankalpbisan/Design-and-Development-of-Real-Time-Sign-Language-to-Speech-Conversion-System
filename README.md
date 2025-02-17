@@ -45,12 +45,14 @@ This project aims to create a real-time system that interprets sign language ges
 - The flex sensors are used for capturing the fingers flex movement
 
 ![MPU6050](Images_and_Visuals/Other_Images/mpu6050.png)
+
 <p align="center">  
 <img src="(Images_and_Visuals/Other_Images/mpu6050.png" alt="MPU6050" width="350" height="300">
 </p>
 - This sensor is used for accounting the hand movements  
 
 ![STM32F103C8T6](Images_and_Visuals/Other_Images/stm32.jpg)
+
 <p align="center">  
 <img src="(Images_and_Visuals/Other_Images/stm32.jpg" alt="STM32F103C8T6" width="350" height="300">
 </p>
@@ -60,7 +62,9 @@ This project aims to create a real-time system that interprets sign language ges
 
 ## Block Diagram
 
-![Block Diagram](Images_and_Visuals/Other_Images/Block_Diagram.jpg)
+<p align="center">  
+<img src="(Images_and_Visuals/Other_Images/Block_Diagram.jpg" alt="Block Diagram" width="450" height="380">
+</p>
 The block diagram is self-explanatory.
 - The designed glove is only responsible for collecting data/input.
 - All processing and classification task takes place on the Desktop itself
