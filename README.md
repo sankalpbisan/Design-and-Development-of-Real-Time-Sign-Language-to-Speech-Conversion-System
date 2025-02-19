@@ -19,6 +19,7 @@ A real-time system designed to convert sign language gestures into spoken words,
 - [Visuals](#visuals)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
+- [Contact](#contact)
 
 ---
 
@@ -94,6 +95,15 @@ The block diagram is self-explanatory.
 - It can be integrated with other sensors or replaced with high computing resources.
 - While collecting data, sampling rate and minor fluctuations must be considered.
 - Moreover, the systems overall robustness and functioning can be enhanced with more better devices and sensors.   
+
+---
+
+## Contact
+
+For any questions or inquiries, feel free to reach out:
+
+- **Email**: sankalpbisan07@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://in.linkedin.com/in/sankalpbisan)
 
 ---
 
