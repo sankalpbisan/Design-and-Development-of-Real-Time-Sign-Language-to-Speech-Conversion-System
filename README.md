@@ -1,4 +1,4 @@
-# Design-and-Development-of-Real-Time-Sign-Language-to-Speech-Conversion-System
+# Design and Development of Real Time Sign Language to Speech Conversion System
 
 <p align="center">  
 <img src="Images_and_Visuals/Designed_Glove/Designed_Glove4.jpg" alt="Designed Glove" width="600" height="350">
