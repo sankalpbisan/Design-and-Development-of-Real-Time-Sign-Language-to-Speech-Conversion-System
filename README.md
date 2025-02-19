@@ -108,7 +108,7 @@ For any questions or inquiries, feel free to reach out:
 ---
 
 Also check out my various projects:
-1. **Vehicle Insurance MLOps Project** - [Click Here to visit this repo](https://github.com/sankalpbisan/Vehicle-Insurance-MLOps-Project.git))
+1. **Vehicle Insurance MLOps Project** - [Click Here to visit this repo](https://github.com/sankalpbisan/Vehicle-Insurance-MLOps-Project.git)
 2. **Student Performance Indicator** - [Click Here to visit this repo](https://github.com/sankalpbisan/MLOps_practice_project_students_performance_indicator.git)
 3. **Patients Hospital Charges Predictor** - [Click Here to visit this repo](https://github.com/sankalpbisan/MLOps_Practice_Project-Patients-Hospital-Charges-Predictor.git)
 
